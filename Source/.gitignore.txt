@@ -1,0 +1,34 @@
+#####################
+
+#Unreal Generated Files#
+
+#####################
+*/Build
+
+*/Binaries
+
+*/DerivedDataCache
+
+*/Intermediate
+
+*/Saved
+
+############
+
+#Asset Files#
+
+###########
+
+*/Content/ParagonYin
+
+*/Content/FPS_Weapon_Bundle
+
+*/Content/Crosshair_fps_tutorial
+
+##################
+
+#VS Generated Files#
+
+#################
+
+*/.vs
